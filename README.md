@@ -1,6 +1,6 @@
 # Salut, moi c'est Hugo (Keogo/Heina) 👋
 
-**Étudiant en Intelligence Artificielle à Aivancity | Développeur Full-Stack & Ingénieur ML**
+**Étudiant Junior en Intelligence Artificielle à Aivancity | Développeur Full-Stack & ML**
 
 J'aime construire des systèmes qui résolvent des problèmes concrets. Ma philosophie de travail est simple : **une solution fiable et simple vaut mieux que 20 solutions complexes.** Je m'intéresse particulièrement à l'intégration de LLM, à la sécurité applicative et à la rigueur en Machine Learning.
 
